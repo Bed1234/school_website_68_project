@@ -1,6 +1,6 @@
 body
 {
-    text-align: center;
+  text-align: center;
     background-color: lightblue;
     
 }
@@ -113,6 +113,18 @@ h5{
     margin-top: 15px;
   
 }
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
 
 
 
@@ -123,6 +135,45 @@ h5{
 
 
 
+
+.travel_mainDiv{
+    border:1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+    
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+  margin-left:20px;
+    
+}
+
+
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
+
+
+
+
+
+
+body{
+    text-align: center;
+}
+ 
 
 
 
